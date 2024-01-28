@@ -11,6 +11,12 @@ The sketch depicts a cityscape at night, complete with gradient skies, buildings
 
 You can experiment with this sketch by visiting the OpenProcessing site: [Cityscape Night View Sketch](https://openprocessing.org/sketch/2158911). OpenProcessing is a creative coding platform for learning and teaching how to code within the context of the visual arts. You can fork this sketch from the provided link or from the associated GitHub repository to start creating your version.
 
+
+## Dynamic and Fresh Results
+
+Each time you load or reload the sketch at [APL Innovation Lab Cityscape](https://apl-innovation-lab.github.io/Cityscape/), you'll experience a fresh version of the cityscape. The buildings, lighting, and other elements are generated randomly, ensuring that each view is unique and dynamic.
+
+
 ### Ways to Modify or Extend the Sketch
 
 1. **Random Lights On/Off**: Introduce a feature to randomly turn building windows on or off to simulate the varied lighting of a real city.
